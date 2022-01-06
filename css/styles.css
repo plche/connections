@@ -1,0 +1,53 @@
+body {
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.contenedorPrincipal {
+    border: 2px solid #cccccc;
+    width: 600px;
+}
+
+.header {
+    background-color: #309db8;
+    height: 70px;
+}
+
+.header > img {
+    width: 80px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    border: 2px solid #cccccc;
+    border-radius: 50px;
+    padding: 2px;
+    background-color: #ffffff;
+}
+
+.tarjetaInformacion {
+    margin-top: 55px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.nombre {
+    margin-bottom: 4px;
+}
+
+.iconoUbicacion {
+    width: 10px;
+    padding: 5px;
+}
+
+.iconoConfiguracion {
+    width: 15px;
+    padding: 4px;
+}
+
+.ciudad, .linkEditar {
+    vertical-align: 6px;
+}
+
+.skills p {
+    margin: 2px 0;
+    padding: 0;
+}
